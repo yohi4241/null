@@ -6,4 +6,6 @@ function count(){
 }
 function reset(){
     s = 0;
+    let x = document.getElementById("cow");
+    x.textContent = s;
 }
