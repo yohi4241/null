@@ -4,3 +4,6 @@ function count(){
     s = s + 1;
     d.textContent = s;
 }
+function reset(){
+    s = 0;
+}
