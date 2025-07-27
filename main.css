@@ -1,0 +1,15 @@
+@charset "UTF-8";
+p {
+    font-size: 20px;
+    text-align: center;
+
+}
+h1 {
+    text-decoration: underline;
+    
+}
+#cow{
+    width: 141px;
+    height: 100px;
+    font-size: large;
+}
